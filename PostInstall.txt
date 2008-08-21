@@ -1,0 +1,6 @@
+
+For more information on synaptein, see http://synaptein.rubyforge.org
+
+You can now run "synaptien -h" for a quick help screen.
+
+
