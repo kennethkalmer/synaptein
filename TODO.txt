@@ -1,0 +1,13 @@
+TICKETS - git style ;)
+
+Configuration options for receptors and transmitters
+
+Introduce a logger, with unix signal support for changing verbosity
+
+Better exception handling and reporting all round
+
+Improve documentation in the code
+
+Write specs
+
+Implement the synaptein command

@@ -56,6 +56,7 @@ Simle as that. Messages can be sent from anything that can talk HTTP.
 
 * xmpp4r-simple
 * eventmachine
+* eventmachine_httpserver
 
 == INSTALL:
 
